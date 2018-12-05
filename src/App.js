@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn and Earn
+            Learn and Earn and earn too much.
           </a>
         </header>
       </div>
